@@ -1,0 +1,7 @@
+CitiBike Analysis
+
+	I decided to look at the CitiBike dataset from when the Covid-19 pandemic began to the most recent data (March 2020-April 2021).
+The main phenomenons I uncovered were:
+- Ridership went down most drastically when the pandemic first hit.
+- Ridership followed similar trends as Covid infection rates, almost as as inverse.  
+- Most trips started and stopped in a centralized cluster of stations in New Jersey, most likely due to the large number of commuters between the two states.
